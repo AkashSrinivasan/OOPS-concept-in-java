@@ -1,4 +1,4 @@
- //A special keyword that represents the object you are currently executing within
+ //A special keyword that represents the object you are currently executing within is know as "this" keyword
 
 
 
